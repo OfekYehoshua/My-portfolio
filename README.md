@@ -14,10 +14,7 @@ Built on the third week of my boocamp course that ive did.
 ## Running the project
 
 1. Clone the repo.
-2. Click go-live
-3. enter the server folder.
-5. go back to the root folder.
-6. Run `npm start`.
+2. Click go-live (on live server feature)
 
 ## Screenshots
 
